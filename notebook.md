@@ -101,3 +101,31 @@ The more clerical aspect of the ideating though, was in the quality of the data 
 [1]Ramsay, Stephen. “The Hermeneutics of Screwing Around; or What You Do with a Million Books” _Partplay: Teaching and Learning History with Technology_, (2014).
 
 [2]Jockers, Matthew & Underwood, Ted. “Text-Mining the Humanities”, (2016).
+
+# Journal F
+
+dont know:
+<img width="1440" height="750" alt="Screenshot 2026-03-26 at 3 17 50 PM" src="https://github.com/user-attachments/assets/8023c2fd-2caf-42c2-85a0-fdae6e71b493" />
+
+files;
+<img width="1440" height="811" alt="Screenshot 2026-03-26 at 3 21 11 PM" src="https://github.com/user-attachments/assets/e0b6db18-385f-4b11-82fc-ec7eede5ff0a" />
+
+COASTline:
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 31 18 PM" src="https://github.com/user-attachments/assets/021f6de8-2457-49d0-bc97-2ed9e6208ce5" />
+
+
+inventory of the region
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 31 44 PM" src="https://github.com/user-attachments/assets/afc625e9-5dd4-4523-9fd1-b925a8f4ede9" />
+
+pei hydronetwork
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 32 24 PM" src="https://github.com/user-attachments/assets/d91ca057-731c-424f-9c04-7d5886b3345f" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 32 43 PM" src="https://github.com/user-attachments/assets/3f1424a3-eca8-43d1-93ee-544a13bc2000" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 33 09 PM" src="https://github.com/user-attachments/assets/319b7662-eff1-4db3-a8fd-777d694d8a07" />
+
+
+<img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 34 15 PM" src="https://github.com/user-attachments/assets/e57edc50-7756-4183-ac3a-39d5b23d84c4" />
+
