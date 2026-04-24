@@ -104,23 +104,28 @@ The more clerical aspect of the ideating though, was in the quality of the data 
 
 # Journal F
 
-dont know:
+For the workshop this week, I chose to work with QGIS because of its extended capacities with spatial mapping. In order to work with it, first I had to download the whole package for QGIS 4.3, then download the maps from the tutorial. Only 4 out of 6 of them were actually available to be downloaded. Then once I loaded them up, I was able to unzip them, and paste them directly into QGIS. I encountered more than a few technical difficulties throughout the process. The first and most prominent was that as soon as I loaded the layers of the map, I tried to zoom in and because of a mac os blip with QGIs, the program would only zoom out. Then, because I had not yet specified my coordinates, I actually lost the map entirely and could not reset the positioning again! I ended up having to delete the whole project and reload the maps. Then, as I went through the tutorial, I was able to fix and set extremely detailed aspects of the map, making it more user-friendly and tailored to the uses that I was hoping for. Throughout the tutorial, I was able to become more comfortable with the available features of QGIS and hope to use it in future projects. 
+
+I personally really appreciate the abstract, it ties in extremely closely to my concentration in metaphysics, yet it was a notable point that the seminar this week was much more abstract than previous ones that we have had in our course. I did find that through navigating and directly running QGIS, I was able to materialize some of the more abstract concepts that we touched on this past Tuesday. In Richard White’s “What is Spatial History,” where he described Henri Lefebvre’s 3 styles of space: 
+Spatial practice: separate[segregated] constructed realms of space linked by human movement
+Representations of space: the physical attempt to conceive space in order to shape what is lived and perceived. [powerful and hopeless]
+Representational space: space as it is lived and experienced through a set of symbolic associations. Overlays physical space and makes symbolic use of its physical objects. [makes it so that it is what religious people feel in a religious space. 
+
+I found that the layers of the map, the representations of space were specifically catering to the spatial practice, they were being used to directly shape what was experienced by users who are able to conceptualize their space based on the various layers of this map. One the one hand, to view a space based on the uniform human-constructed lots in comparison to the same area of land based on the various water networks displays a completely different space, neither of which are truly present in the representational space. Our physical bodies do not intuitively experience space in that conceptualized way, but I am sure that interacting with such a map has a great effect on how the land is conceptualized and therefore experienced. It was ultimately quite interesting to navigate the multiple facets of spatial conceptualization and experience. It really made me wonder about how this has shown up in my own experience of the world. I often think about the fact that I have an understanding of navigating my own life, that is sometimes directly conceptualized through my google-maps perception of the area that i live in, in comparison to my job for example, or to school, even campus itself! Although I am physically in space, I still see things in my head as the map that I use most often, which fails to account for the water ways, the green spaces, and various other aspects that would be just as relevant to my experience of the world. This only prompted branches of further thought on the political, phenomenological, and temporal implications of these relationships. Ultimately navigating QGIS, along with learning a technical skill, helped me to further nuance my conceptualizations of space, and understand the sheer power of spatial representations in our lives. 
+
 <img width="1440" height="750" alt="Screenshot 2026-03-26 at 3 17 50 PM" src="https://github.com/user-attachments/assets/8023c2fd-2caf-42c2-85a0-fdae6e71b493" />
 
-files;
 <img width="1440" height="811" alt="Screenshot 2026-03-26 at 3 21 11 PM" src="https://github.com/user-attachments/assets/e0b6db18-385f-4b11-82fc-ec7eede5ff0a" />
 
-COASTline:
 <img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 31 18 PM" src="https://github.com/user-attachments/assets/021f6de8-2457-49d0-bc97-2ed9e6208ce5" />
-
 
 inventory of the region
 <img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 31 44 PM" src="https://github.com/user-attachments/assets/afc625e9-5dd4-4523-9fd1-b925a8f4ede9" />
 
-pei hydronetwork
+Hydronetwork:
 <img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 32 24 PM" src="https://github.com/user-attachments/assets/d91ca057-731c-424f-9c04-7d5886b3345f" />
 
-
+Lots:
 <img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 32 43 PM" src="https://github.com/user-attachments/assets/3f1424a3-eca8-43d1-93ee-544a13bc2000" />
 
 
