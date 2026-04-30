@@ -134,3 +134,34 @@ Lots:
 
 <img width="1440" height="900" alt="Screenshot 2026-03-26 at 3 34 15 PM" src="https://github.com/user-attachments/assets/e57edc50-7756-4183-ac3a-39d5b23d84c4" />
 
+
+
+
+
+
+
+
+
+
+
+## Journal G
+
+
+Network analyses have proven to be an extremely interesting digital visualization which accompanies a newfound understanding of relationships in the digital age. I became extremely interested in the intuitive and abstracted nature of network analyses and how they can condense and clarify our understandings of relation in the modern world. In the introduction of Anhert et al.’s The Network Turn, Changing Perspectives in the Humanities, They very quickly describe this form of data analysis and its connection to abstraction. “The artist and scientists use connectivity to make sense out of data: a representation of knowledge that relies on abstraction. Both produce results that are seductive in their elegance and simplicity. Networks are by definition an abstraction into a system of nodes and edges. Nodes are entities; edges are the relationships between them.” (Anhert et al., 5) I found that this newfound digital capacity to create massive relational visualizations using network analysis data proves to develop our understanding of the world beyond our bodies yet again. The implications are not only phenomenological, but political, scientific, and much more. Their example in the chapter of Bank of Commerce and credit International’s network that connected Al Qaeda to multiple governments, and Afghan Guerrillas displayed perfectly the potentiality of these newfound abilities to display the relationships between phenomena in the world and the massive effect that it can have on our every-day lives. 
+
+Even in this week's workshop, where I worked with creating a network analysis of who appears next to whom in Les Miserables. I began by downloading Gephi, opening a new graph file, and uploading massive amounts of data to the program. I could go in and edit, customize, and visualize an interactive graph to navigate the relata and form a larger concept of the whole of connections that exist within the play. With the nodes and edges becoming equal phenomena themselves. To me, it was no longer a connection between two objects, but that the connection itself became an object, creating a new concrete layer of reality to the network. I also feel that this is no new phenomena in the scope of human understanding of reality, yet in the digital age, it seems to provide an undeniable important and progressive potentiality to our collective understandings of the world in the West. The reason that I mention that this is not new concept, is because throughout engagement with the readings and program, I was constantly reminded of a concept that is deeply ingrained into my culture, which is Indra’t net. In Vedic Hinduism and Buddhism, Indra’s net is the larger concept of individuality and collectivity which posits that everything stands as a woven fabric of threads, where the thread itself (in terms of the course, Edges) are the universe, and the ‘node’ or the crossing intersection of thread is an Atman, or an individual of some sort. “Rather than positing interdependence among separately existing entities, asserts that the whole does not owe its existence to the coming together of individual parts that have independent existence. Indeed, the existence of each individual part is contingent upon, and relative to, the existence of the whole and of all the other parts. Yet, paradoxically, each individual part also ‘contains’ the whole within itself. Put simply, the whole and the parts are inseparable.” (Malhotra). This concept is deeply reflected by network analyses and seems to me to hold great value in the nuanced understanding of reality as it can be explored by the West in this way. 
+
+
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 3 47 24 PM" src="https://github.com/user-attachments/assets/933c33af-7a5f-45a5-8809-c2a6903de64c" />
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 3 53 20 PM" src="https://github.com/user-attachments/assets/2fc40a16-b8ba-41c0-9672-abd79da4452b" />
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 3 54 43 PM" src="https://github.com/user-attachments/assets/e6b5512b-69e1-4234-9e63-3b2494ec4d34" />
+<img width="1440" height="900" alt="Screenshot 2026-04-02 at 4 00 45 PM" src="https://github.com/user-attachments/assets/58ef3f92-3b96-4228-9110-2dadb232cde7" />
+
+outside source: 
+https://dharmatoday.com/2017/05/24/vedic-metaphor-indras-net-2/
+
+
+
+## Journal H
+
+
